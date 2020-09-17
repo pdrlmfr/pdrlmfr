@@ -2,7 +2,6 @@
 
 ### Hi 🖖
 **My name is Pedro and here are some facts about me:**
-- 🔭 I’m currently working as a Digital Marketing Manager.
 - 🌱 I’m currently learning Python.
 - 💬 Ask me about Cybersecurity and React Native.
 - 📫 How to reach me: @pdrlmfr  
