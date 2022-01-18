@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=80ed99&link=https://www.linkedin.com/in/pdrlmfr"/>
   </a>
 
-  <a href="https://www.twitter.com/pdrlmfr" alt="Linkedin">
+  <a href="https://www.twitter.com/pdrlmfr" alt="Twitter">
     <img src="https://img.shields.io/badge/-Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=80ed99&link=https://www.twitter.com/pdrlmfr"/>
   </a>
 
@@ -36,21 +36,21 @@
 
 ### Work Experience
 
-[<img align="left" height="100px" width="100px" src="https://scontent.fopo3-2.fna.fbcdn.net/v/t1.6435-9/cp0/p64x64/33226113_1752629928131291_3847241857612382208_n.png?_nc_cat=109&ccb=1-5&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_ohc=_MdOyDMgvQkAX-qzIxa&tn=H9dFrO6ijWnaxJfz&_nc_ht=scontent.fopo3-2.fna&oh=3d0829137e75b25271a0c4288eb30018&oe=61CD23DA"/>]()
+[<img align="left" height="100px" width="100px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQH4oWxQIXR-Vw/company-logo_100_100/0/1529052075238?e=1650499200&v=beta&t=1i6eQ-SqhwHRCvQb5M9W6zPh81UGYun6-wnAAQE3KX4"/>]()
 
 **Uteis & Razoáveis** \
  Full-Time • Nov 2021 -   \
  `Mobile Developer`\
 <br/><br/>
 
-[<img align="left" height="100px" width="100px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGFLR8Xpbjyjg/company-logo_100_100/0/1614274273853?e=1639612800&v=beta&t=GpaduGSR5q3yqG1fsWfuzbVAzla_VC33IVFaoIj5OxE"/>]()
+[<img align="left" height="100px" width="100px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGFLR8Xpbjyjg/company-logo_100_100/0/1614274273853?e=1650499200&v=beta&t=QzzqCEKmBWPaxNwEK5HgxEgj0MnCSyOWocSxfFJ6SZs"/>]()
 
 **NQDA / UNTILE** \
  Full-Time • Fev 2019 - Jul 2020 • 1 year & 6 months \
  `Mobile Developer`, `Front-End Developer`\
 <br/><br/>
 
-[<img align="left" height="100px" width="100px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGcxVyJR4ffoA/company-logo_100_100/0/1616143813926?e=1639612800&v=beta&t=5memBM5K4Re8BMiVm-Ie2__xbIioupemsUIGVelyPpg"/>]()
+[<img align="left" height="100px" width="100px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGcxVyJR4ffoA/company-logo_100_100/0/1616143813926?e=1650499200&v=beta&t=UbQ9DpaNzzDFuQONQ7JYKzTtAzJ1v1q5PQVejjm18Pc"/>]()
 
 **RW INTERACTIVE** \
  Freelancer • Oct 2019 - Dec 2019 • 3 months \
