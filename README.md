@@ -14,71 +14,65 @@ Working as a team is important to me because it allows you to expand your knowle
   🧰 Tools: <strong>VSCode, Git, Heroku, Vercel, Sketch, Invision, Trello , Notion and Clickup</strong>.
 </p>
 
+<div align="left">
 <p align="left">
   💌 If you wanna talk with me ,just leave a message.
 </p>
 
-<p align="left">
-  <a href="https://www.instagram.com/pdrlmfr/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=yellow
-&link=https://www.instagram.com/pdrlmfr"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/pdrlmfr" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=yellow
-&link=https://www.linkedin.com/in/pdrlmfr"/>
-  </a>
-
-  <a href="https://www.twitter.com/pdrlmfr" alt="Twitter">
-    <img src="https://img.shields.io/badge/-Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=yellow
-&link=https://www.twitter.com/pdrlmfr"/>
-  </a>
-</p>
-<br/>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue")](https://www.linkedin.com/in/pdrlmfr)
+[![Twitter](https://img.shields.io/badge/Twitter-white?style=flat&logo=twitter&labelColor=blue")](https://www.twitter.com/pdrlmfr)
+[![Instagram](https://img.shields.io/badge/Instagram-ffffff?style=flat&logo=instagram&labelColor=white)](https://www.instagram.com/pedrofaria.dev)
 
 <p>
-
 ❤️ Support me:
 
-[![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.me/pedrolmfr)
+[![Donate on PayPal](https://img.shields.io/badge/Paypal-ffffff?style=flat&logo=paypal&labelColor=white)](https://www.paypal.me/pedrolmfr)
 
 </p>
+</div>
 
 <br/>
 
-### _Work Experience_
+### _**Work Experience**_
 
-[<img align="left" height="100px" width="100px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQH4oWxQIXR-Vw/company-logo_100_100/0/1529052075238?e=1650499200&v=beta&t=1i6eQ-SqhwHRCvQb5M9W6zPh81UGYun6-wnAAQE3KX4"/>]()
+[<img align="left" height="100px" width="100px" src="./assets/devoteam.jpg"/>]()
+
+**Devoteam - Creative Tech** \
+ Full-Time • May 2022 - Now\
+ `Mobile Developer`\
+<br/><br/>
+
+[<img align="left" height="100px" width="100px" src="./assets/ur.jpg"/>]()
 
 **Uteis & Razoáveis** \
- Full-Time • Nov 2021 - Apr 2022 • 7 months \
- `React Native Developer`\
+ Full-Time • Nov 2021 - Apr 2022\
+ `Mobile Developer`\
 <br/><br/>
 
-[<img align="left" height="100px" width="100px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGFLR8Xpbjyjg/company-logo_100_100/0/1614274273853?e=1650499200&v=beta&t=QzzqCEKmBWPaxNwEK5HgxEgj0MnCSyOWocSxfFJ6SZs"/>]()
+[<img align="left" height="100px" width="100px" src="./assets/untile.jpg"/>]()
 
 **NQDA / UNTILE** \
- Full-Time • Fev 2019 - Jul 2020 • 1 year & 6 months \
- `React Mobile Developer`, `Front-End Developer`\
+ Full-Time • Fev 2019 - Jul 2020\
+ `Mobile Developer`, `Front-End Developer`\
 <br/><br/>
 
-[<img align="left" height="100px" width="100px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGcxVyJR4ffoA/company-logo_100_100/0/1616143813926?e=1650499200&v=beta&t=UbQ9DpaNzzDFuQONQ7JYKzTtAzJ1v1q5PQVejjm18Pc"/>]()
+[<img align="left" height="100px" width="100px" src="./assets/rw.jpg"/>]()
 
 **RW INTERACTIVE** \
- Freelancer • Oct 2019 - Dec 2019 • 3 months \
+ Freelancer • Oct 2019 - Dec 2019 \
  `Lead Mobile Developer`\
 <br/><br/>
 
 [<img align="left" height="100px" width="100px" src="https://media-exp1.licdn.com/dms/image/C5603AQGhL5unacyJ6Q/profile-displayphoto-shrink_200_200/0/1517486609416?e=1654128000&v=beta&t=PhxVZ1SkPeYlj6OipK30duyLfWcI1KF7fG5R4UOnt-0"/>]()
 
 **NXnegocios.pt** \
- Part-Time • Jun 2015 - May 2018 • 2 years & 11 months \
+ Part-Time • Jun 2015 - May 2018\
  `Front-End Developer`\
 <br/><br/>
 
 [<img align="left" height="100px" width="100px" src="https://ncinfo.com.pt/images/img0038.png"/>]()
 
 **NC INFO** \
- Part-Time • Jan 2015 - Jun 2018 • 3 years & 5 months \
+ Part-Time • Jan 2015 - Jun 2018\
  `Web Developer`, `Xojo Developer`\
 <br/><br/>
